@@ -1,2 +1,2 @@
-# ChronoStasis
-Damn, Got to something??
+# tryin-shii-out
+Hackday Project gotta cook up some shii
